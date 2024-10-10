@@ -16,7 +16,7 @@ Login with correct Username and Password
     Close Browser
 
 Add Tasks And Set To Complete
-    Open Browser    url=https://todomvc.com/examples/angular/dist/browser/#    browser=chrome
+    Open Browser      url=https://todomvc.com/examples/angular/dist/browser/#    browser=chrome
     Input Text    css:.new-todo    Complete Robot Framework Training
     Press Keys    css:.new-todo    RETURN
     Input Text    css:.new-todo    Write Automated Tests
